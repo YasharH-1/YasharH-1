@@ -1,0 +1,303 @@
+<mxfile host="app.diagrams.net" modified="2024-02-18T10:56:35.109Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="T9HWvP4gfvc9xQv6vL7R" version="23.1.5" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1468" dy="1017" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="RsLkAAkYW9kebtacKjIs-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RsLkAAkYW9kebtacKjIs-1" target="RsLkAAkYW9kebtacKjIs-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RsLkAAkYW9kebtacKjIs-1" target="RsLkAAkYW9kebtacKjIs-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-1" value="Understanding Basics of Electronics and Computer Science" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-2" value="Step1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="145" y="10" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RsLkAAkYW9kebtacKjIs-3" target="RsLkAAkYW9kebtacKjIs-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RsLkAAkYW9kebtacKjIs-3" target="RsLkAAkYW9kebtacKjIs-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-3" value="Learning Hardware Fundamentals" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-5" value="Step2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="145" y="150" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RsLkAAkYW9kebtacKjIs-6" target="RsLkAAkYW9kebtacKjIs-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RsLkAAkYW9kebtacKjIs-6" target="RsLkAAkYW9kebtacKjIs-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="340" />
+              <mxPoint x="210" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-6" value="&lt;br&gt;Delving into Microcontrollers and Embedded Systems&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; color: rgb(255, 255, 255); min-height: 15px; text-align: start;&quot; class=&quot;p2&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-8" value="Step3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="145" y="290" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RsLkAAkYW9kebtacKjIs-9" target="RsLkAAkYW9kebtacKjIs-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RsLkAAkYW9kebtacKjIs-9" target="RsLkAAkYW9kebtacKjIs-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-9" value="&lt;br&gt;Understanding Hardware Protocols and Communication&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; color: rgb(255, 255, 255); min-height: 15px; text-align: start;&quot; class=&quot;p2&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-11" value="Step4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="145" y="430" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RsLkAAkYW9kebtacKjIs-12" target="RsLkAAkYW9kebtacKjIs-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RsLkAAkYW9kebtacKjIs-12" target="RsLkAAkYW9kebtacKjIs-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-12" value="&lt;br&gt;Exploring Reverse Engineering and Hardware Security&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; color: rgb(255, 255, 255); min-height: 15px; text-align: start;&quot; class=&quot;p2&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-14" value="Step5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="145" y="568" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RsLkAAkYW9kebtacKjIs-15" target="RsLkAAkYW9kebtacKjIs-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RsLkAAkYW9kebtacKjIs-15" target="RsLkAAkYW9kebtacKjIs-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-15" value="Advanced Topics and Specializations" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-17" value="Step6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="145" y="710" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-18" value="Practical Application and Projects" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-20" value="step7" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="145" y="848" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-40" value="&lt;b&gt;Introduction to Electronics and Computer Science:&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="17.5" width="80" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-45" value="&lt;b&gt;Books&lt;/b&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="10" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-46" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" target="RsLkAAkYW9kebtacKjIs-45" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="70" as="sourcePoint" />
+            <mxPoint x="350" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-47" value="&quot;Make: Electronics: Learning Through Discovery&quot; by Charles Platt&lt;br&gt;&lt;br&gt;&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;/span&gt;&quot;Code: The Hidden Language of Computer Hardware and Software&quot; by Charles Petzold" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="10" width="500" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-48" value="&lt;b&gt;Courses&lt;/b&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="90" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-49" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="70" as="sourcePoint" />
+            <mxPoint x="359" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="170" />
+              <mxPoint x="310" y="200" />
+              <mxPoint x="310" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-50" value="&quot;Introduction to Computer Science&quot; on Coursera or edX&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&quot;Electricity and Magnetism&quot; on Khan Academy" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="430" y="80" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-51" value="&lt;b&gt;Basic Electronics and Circuit Analysis:&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="173.5" width="80" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-53" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Books&lt;/b&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="150" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-54" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" target="RsLkAAkYW9kebtacKjIs-53" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="213" as="sourcePoint" />
+            <mxPoint x="320" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-55" value="&amp;nbsp;&quot;Practical Electronics for Inventors&quot; by Paul Scherz and Simon Monk&lt;br&gt;&lt;br&gt;&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp; &lt;/span&gt;&amp;nbsp;&quot;Electronics All-in-One For Dummies&quot; by Doug Lowe" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="405" y="150" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-56" value="&lt;b&gt;Courses&lt;/b&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="210" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-57" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="RsLkAAkYW9kebtacKjIs-56" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="220" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-58" value="&amp;nbsp; &amp;nbsp; &quot;Electronics - Fundamentals and Applications&quot; on Coursera&lt;br&gt;&lt;br&gt;&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;/span&gt;&quot;Electronics for Beginners&quot; on Udemy" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="210" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-61" value="&lt;b&gt;Microcontrollers &lt;br&gt;and &lt;br&gt;Embedded Systems:&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="310" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-63" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Books&lt;/b&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="395" y="280" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-64" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=1.021;exitY=0.658;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="RsLkAAkYW9kebtacKjIs-63" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RsLkAAkYW9kebtacKjIs-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="360" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="360" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-65" value="&amp;nbsp;&amp;nbsp;- &quot;Getting Started with Arduino&quot; by Massimo Banzi&lt;br&gt;&lt;br&gt;&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp; &lt;/span&gt;- &quot;Embedded Systems: Introduction to Arm Cortex-M Microcontrollers&quot; by Jonathan W. Valvano" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="275" width="540" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-66" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Courses&lt;/b&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="345" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-67" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="355" as="sourcePoint" />
+            <mxPoint x="390" y="375" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="375" y="345" />
+              <mxPoint x="385" y="385" />
+              <mxPoint x="385" y="375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-68" value="&amp;nbsp; &amp;nbsp;&amp;nbsp;- &quot;Arduino Programming and Hardware Fundamentals with Hackster&quot; on Udemy&lt;br&gt;&lt;br&gt;&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp; &lt;/span&gt;- &quot;Embedded Systems - Shape The World: Microcontroller Input/Output&quot; on edX" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="340" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-69" value="&lt;b&gt;Hardware Protocols &lt;br&gt;and &lt;br&gt;Communication:&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="460" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-72" value="&lt;b&gt;Books&lt;/b&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="430" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-73" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="490" as="sourcePoint" />
+            <mxPoint x="405" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-74" value="&amp;nbsp; &amp;nbsp;&amp;nbsp;- &quot;The Hardware Hacker: Adventures in Making and Breaking Hardware&quot; by Andrew &quot;bunnie&quot; Huang&lt;br&gt;&lt;span class=&quot;Apple-converted-space&quot;&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;- &quot;Hacking Electronics: Learning Electronics with Arduino and Raspberry Pi&quot; by Simon Monk" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="430" y="430" width="570" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-75" value="&lt;b&gt;Courses&lt;/b&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="395" y="490" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-76" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="490" as="sourcePoint" />
+            <mxPoint x="400" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-77" value="&amp;nbsp; &amp;nbsp;&amp;nbsp;- &quot;Introduction to Networking for Complete Beginners&quot; on Udemy&lt;br&gt;&lt;br&gt;&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp; &lt;/span&gt;- &quot;Interfacing with the Arduino&quot; on Coursera" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="490" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-78" value="&lt;b&gt;Reverse Engineering and&lt;br&gt;&amp;nbsp;Hardware Security&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="225" y="610" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-80" value="&lt;b&gt;Books&lt;/b&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="568" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-81" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" target="RsLkAAkYW9kebtacKjIs-80" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="394" y="630" as="sourcePoint" />
+            <mxPoint x="434" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-82" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;- &quot;Hacking: The Art of Exploitation&quot; by Jon Erickson&lt;br&gt;&lt;br&gt;&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp; &lt;/span&gt;- &quot;The Hardware Hacker: Adventures in Making and Breaking Hardware&quot; by Andrew &quot;bunnie&quot; Huang" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="414" y="568" width="570" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-83" value="&lt;b&gt;Courses&lt;/b&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="415" y="650" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-84" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="RsLkAAkYW9kebtacKjIs-83" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RsLkAAkYW9kebtacKjIs-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="720" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-85" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;- &quot;Reverse Engineering and Exploit Development&quot; on Cybrary&lt;br&gt;&lt;br&gt;&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp; &lt;/span&gt;- &quot;Hardware Hacking&quot; on Pluralsight" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="650" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-86" value="&lt;b&gt;Advanced Topics and &lt;br&gt;Specializations&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="225" y="750" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-88" value="&lt;b&gt;Books&lt;/b&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="720" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-89" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="770" as="sourcePoint" />
+            <mxPoint x="400.2105263157896" y="750.3684210526317" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-90" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;- &quot;The Art of Hardware Architecture: Design Methods and Techniques for Digital Circuits&quot; by Mohamed M. I. El-Gamal and Mohamed A. Bayoumi&lt;br&gt;&lt;br&gt;&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp; &lt;/span&gt;- &quot;Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation&quot; by Bruce Dang, Alexandre Gazet, and Elias Bachaalany" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="414" y="720" width="880" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-91" value="&lt;b&gt;Courses&lt;/b&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="395" y="800" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-92" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0.9;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="RsLkAAkYW9kebtacKjIs-91" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RsLkAAkYW9kebtacKjIs-86">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="860" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-93" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;- &quot;Advanced Hardware Hacking Techniques&quot; on Udemy&lt;br&gt;&lt;br&gt;&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp; &lt;/span&gt;- &quot;Reverse Engineering for Beginners&quot; online course by Dennis Yurichev" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="800" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-98" value="Recommanded books(NOT SORT BY ORDER)" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1105" width="549" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-99" value="Lane 1" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="RsLkAAkYW9kebtacKjIs-98">
+          <mxGeometry y="20" width="549" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-103" value="Justin Seitz, Tim Arnold - Black Hat Python_ Python Programming &lt;br&gt;for Hackers and Pentesters-No Starch Press (2021).pdf" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="RsLkAAkYW9kebtacKjIs-99">
+          <mxGeometry x="89.5" y="40" width="370" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-100" value="Lane 2" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="RsLkAAkYW9kebtacKjIs-98">
+          <mxGeometry y="140" width="549" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-104" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, Beau Woods - &lt;br&gt;Practical IoT Hacking_ The Definitive Guide to Attacking the Internet of Things-No Starch Press (2021).pdf&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="RsLkAAkYW9kebtacKjIs-100">
+          <mxGeometry x="9" y="30" width="540" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-101" value="Lane 3" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="RsLkAAkYW9kebtacKjIs-98">
+          <mxGeometry y="260" width="549" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-105" value="Jasper van Woudenberg, Colin O&#39;Flynn&amp;nbsp;&lt;br&gt;-The Hardware Hacking Handbook_ Breaking Embedded Security with Hardware Attacks&lt;br&gt;-No Starch Press (2021).pdf" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="RsLkAAkYW9kebtacKjIs-101">
+          <mxGeometry x="29" y="30" width="500" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-107" value="YouTube Channels" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1189.5" y="430" width="380" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-108" value="https://www.youtube.com/user/hackaday" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="RsLkAAkYW9kebtacKjIs-107">
+          <mxGeometry y="26" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-109" value="https://www.youtube.com/user/thebenheckshow" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="RsLkAAkYW9kebtacKjIs-107">
+          <mxGeometry y="52" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-112" value="https://www.youtube.com/user/DEFCONConference" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="RsLkAAkYW9kebtacKjIs-107">
+          <mxGeometry y="78" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-113" value="https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="RsLkAAkYW9kebtacKjIs-107">
+          <mxGeometry y="104" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RsLkAAkYW9kebtacKjIs-110" value="https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="RsLkAAkYW9kebtacKjIs-107">
+          <mxGeometry y="130" width="380" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
